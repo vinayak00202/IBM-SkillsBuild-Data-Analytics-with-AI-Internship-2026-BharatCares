@@ -1,6 +1,6 @@
 # House Price Prediction — Internship Project
 
-**Author:** Nitin Kumar Saini
+**Author:** Vinayak Ojha 
 
 ## Overview
 This project builds and evaluates machine learning models that predict house
